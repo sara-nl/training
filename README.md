@@ -1,2 +1,3 @@
-# training
-Repository for training materials for SURFsara
+# Training information
+
+Repository for information and materials related to training activities provided at SURFsara.
